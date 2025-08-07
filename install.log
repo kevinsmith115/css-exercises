@@ -1,0 +1,9 @@
+[00:01:16 2025-08-07] FETCHING Version 2.40.11
+[00:01:16 2025-08-07] CREATING /Users/saint/.spicetify
+[00:01:16 2025-08-07] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.40.11/spicetify-2.40.11-darwin-arm64.tar.gz
+[00:01:18 2025-08-07] EXTRACTING /Users/saint/.spicetify/spicetify.tar.gz
+[00:01:18 2025-08-07] SETTING EXECUTABLE PERMISSIONS TO /Users/saint/.spicetify/spicetify
+[00:01:18 2025-08-07] REMOVING /Users/saint/.spicetify/spicetify.tar.gz
+[00:01:18 2025-08-07] APPENDING /Users/saint/.spicetify to PATH in /Users/saint/.zshrc
+[00:01:18 2025-08-07] spicetify v2.40.11 was installed successfully to /Users/saint/.spicetify
+[00:01:18 2025-08-07] Run 'spicetify --help' to get started
